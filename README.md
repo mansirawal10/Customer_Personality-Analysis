@@ -1,4 +1,4 @@
-# Customer Personality Data Cleaning
+# Customer Personality Analysis
 
 ## Dataset:
 Customer Personality Analysis from Kaggle
