@@ -1,15 +1,17 @@
-Task 2 – Data Visualization & Storytelling
+##Task 2 – Data Visualization & Storytelling
 
-🎯 Objective
+##🎯 Objective
 Create interactive visualizations and apply data storytelling techniques to uncover insights from the cleaned Customer Personality dataset.
 
-Tools Used:
+##Tools Used:
 
 Power BI
 
 Microsoft Excel (for minor preprocessing)
 
-🔧 Steps Performed
+Canva
+
+##🔧 Steps Performed
 
 Imported the cleaned dataset (cleaned_marketing_campaign.csv).
 
@@ -33,7 +35,7 @@ Applied color themes, consistent formatting, and clear labeling.
 
 Added 1–2 line business insights per chart for storytelling.
 
-📌 Output:
+##📌 Output:
 
 Power BI dashboard file (Customer_Personality.pbix)
 
