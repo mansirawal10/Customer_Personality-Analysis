@@ -1,4 +1,4 @@
-## Task 1 – Data Visualization & Storytelling 
+## Task 2 – Data Visualization & Storytelling 
 
 ## 🎯 Objective
 Create interactive visualizations and apply data storytelling techniques to uncover insights from the cleaned Customer Personality dataset.
