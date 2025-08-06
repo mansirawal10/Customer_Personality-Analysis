@@ -15,11 +15,11 @@ Create interactive visualizations and apply data storytelling techniques to unco
 - Created calculated columns and measures (e.g., RecencyBucket, Total_Spending).
 - Unpivoted purchase columns to analyze channel performance.
 - Designed interactive dashboard pages:
-  Customer Overview – demographics, education, marital status
-  Spending Behavior – income vs spending, product category analysis
-  Channel Performance – purchases by channel, recency vs channel
-  Trends & Patterns – customer join trends, total spending by year
-  Customer Drillthrough – individual customer profiles
+  * Customer Overview – demographics, education, marital status
+  * Spending Behavior – income vs spending, product category analysis
+  * Channel Performance – purchases by channel, recency vs channel
+  * Trends & Patterns – customer join trends, total spending by year
+  * Customer Drillthrough – individual customer profiles
 - Applied color themes, consistent formatting, and clear labeling.
 - Added 1–2 line business insights per chart for storytelling.
 
